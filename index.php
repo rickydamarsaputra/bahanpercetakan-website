@@ -35,7 +35,7 @@ require_once('const.php');
   <meta name="twitter:site" content="https://mesinpercetakan.com" />
 
   <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-7FPFX21LX2"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-STK4632WQ7"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
 
@@ -44,7 +44,7 @@ require_once('const.php');
     }
     gtag('js', new Date());
 
-    gtag('config', 'G-7FPFX21LX2');
+    gtag('config', 'G-STK4632WQ7');
   </script>
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
