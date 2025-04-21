@@ -11,26 +11,26 @@ require_once('const.php');
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
   <meta name="author" content="Vicentra Dev" />
   <meta name="description"
-    content="Vicentra adalah penyedia mesin percetakan terpercaya di Indonesia, menawarkan mesin offset, digital, sablon, spanduk, stiker, serta layanan purna jual profesional untuk bisnis percetakan besar maupun rumahan. Hubungi kami sekarang!" />
-  <meta name="keywords" content="mesin percetakan, mesin cetak offset, mesin digital printing, mesin cetak spanduk, mesin cetak stiker, mesin percetakan murah, jual mesin percetakan, harga mesin percetakan, distributor mesin percetakan, mesin percetakan terbaik">
+    content="Vicentra adalah penyedia mesin dan bahan percetakan terpercaya di Indonesia, menawarkan mesin offset, digital, sablon, spanduk, stiker, serta layanan purna jual profesional untuk bisnis percetakan besar maupun rumahan. Hubungi kami sekarang!" />
+  <meta name="keywords" content="Bahan Percetakan, Kertas Art Paper, Jenis Jenis Kertas Percetakan, Bahan Baku Utama Spanduk, Bahan Cetak, Quantac, Sticker Quantac, Distributor Quantac, Digital Printing Supplier, Tinta Icontek, Bahan Stiker A3+, Material Stiker Cetak Digital, Material Stiker Cetak A3+, Stiker Vinyl Khusus A3+">
   <meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
 
-  <title>Vicentra - Distributor Mesin Percetakan Offset, Digital & Layanan Terbaik</title>
+  <title>Vicentra - Butuh Bahan - Bahan Percetakan Berkualitas? Inilah Rekomendasi Bahan Percetakan Terbaik untuk Kualitas Hasil Maksimal Dari Vicentra!</title>
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="Vicentra - Distributor Mesin Percetakan Offset, Digital & Layanan Terbaik" />
+  <meta property="og:title" content="Vicentra - Butuh Bahan - Bahan Percetakan Berkualitas? Inilah Rekomendasi Bahan Percetakan Terbaik untuk Kualitas Hasil Maksimal Dari Vicentra!" />
   <meta property="og:description"
-    content="Vicentra adalah penyedia mesin percetakan terpercaya di Indonesia, menawarkan mesin offset, digital, sablon, spanduk, stiker, serta layanan purna jual profesional untuk bisnis percetakan besar maupun rumahan. Hubungi kami sekarang!" />
+    content="Vicentra adalah penyedia mesin dan bahan percetakan terpercaya di Indonesia, menawarkan mesin offset, digital, sablon, spanduk, stiker, serta layanan purna jual profesional untuk bisnis percetakan besar maupun rumahan. Hubungi kami sekarang!" />
   <meta property="og:image" content="https://mesinpercetakan.com/assets/images/logo-vicentra-black.webp" />
   <meta property="og:url" content="https://mesinpercetakan.com" />
-  <meta property="og:site_name" content="Vicentra - Distributor Mesin Percetakan Offset, Digital & Layanan Terbaik" />
+  <meta property="og:site_name" content="Vicentra - Butuh Bahan - Bahan Percetakan Berkualitas? Inilah Rekomendasi Bahan Percetakan Terbaik untuk Kualitas Hasil Maksimal Dari Vicentra!" />
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Vicentra - Distributor Mesin Percetakan Offset, Digital & Layanan Terbaik" />
+  <meta name="twitter:title" content="Vicentra - Butuh Bahan - Bahan Percetakan Berkualitas? Inilah Rekomendasi Bahan Percetakan Terbaik untuk Kualitas Hasil Maksimal Dari Vicentra!" />
   <meta name="twitter:description"
-    content="Vicentra adalah penyedia mesin percetakan terpercaya di Indonesia, menawarkan mesin offset, digital, sablon, spanduk, stiker, serta layanan purna jual profesional untuk bisnis percetakan besar maupun rumahan. Hubungi kami sekarang!" />
+    content="Vicentra adalah penyedia mesin dan bahan percetakan terpercaya di Indonesia, menawarkan mesin offset, digital, sablon, spanduk, stiker, serta layanan purna jual profesional untuk bisnis percetakan besar maupun rumahan. Hubungi kami sekarang!" />
   <meta name="twitter:image" content="https://mesinpercetakan.com/assets/images/logo-vicentra-black.webp" />
   <meta name="twitter:site" content="https://mesinpercetakan.com" />
 
@@ -91,7 +91,7 @@ require_once('const.php');
         <ul :class="[isMenuShow ? 'visible' : 'invisible']"
           class="lg:visible flex flex-col lg:flex-row lg:items-center gap-2 lg:gap-5 absolute lg:static top-[3.125rem] left-0 right-0 bg-white lg:bg-transparent shadow lg:shadow-none p-2 lg:p-0 rounded lg:rounded-none">
           <li><a href="https://vicentra.co.id" class="beranda hover:underline">Beranda</a></li>
-          <li><a href="https://vicentra.co.id/product/mesin/digital-printing"
+          <li><a href="https://vicentra.co.id/product/consumable/bahan-digital-printing"
               class="semua_produk hover:underline">Produk</a>
           </li>
           <li><a href="https://vicentra.co.id/terms-and-conditions"
@@ -107,26 +107,115 @@ require_once('const.php');
     <section>
       <div class="lg:w-[80vw] mx-5 lg:mx-auto grid lg:grid-cols-12 lg:gap-10 mt-10">
         <div class=" col-span-12 lg:col-span-8 order-first lg:order-none">
-          <h1 class="text-3xl font-semibold text-gray-800">Butuh Mesin Percetakan? Inilah Rekomendasi Terbaik untuk Kualitas Hasil Maksimal Dari Vicentra!</h1>
+          <h1 class="text-3xl font-semibold text-gray-800">Butuh Bahan - Bahan Percetakan Berkualitas? Inilah Rekomendasi Bahan Percetakan Terbaik untuk Kualitas Hasil Maksimal Dari Vicentra!</h1>
           <figure>
             <img
-              src="https://vicentra.co.id/storage/post-thumbnails/unboxing-dan-uji-coba-mesin-cnc-laser-co2-fortis-ntl-1390.webp"
-              alt="unboxing-dan-uji-coba-mesin-cnc-laser-co2-fortis-ntl-1390" class="mt-[1.875rem] rounded-lg w-full">
-            <figcaption class="text-center">unboxing dan uji coba mesin cnc laser co2 fortis ntl 1390</figcaption>
+              src="./assets/images/banner-rekomendasi-bahan-percetakan.webp"
+              alt="banner-rekomendasi-bahan-percetakan" class="mt-[1.875rem] rounded-lg w-full">
+            <figcaption class="text-center">butuh-bahan-bahan-percetakan-berkualitas-inilah-rekomendasi-bahan-percetakan-terbaik-untuk-kualitas-hasil-maksimal-dari-vicentra</figcaption>
           </figure>
           <div class="mt-[1.875rem]">
             <p class="text-justify">
-              Apakah Anda sedang mencari mesin percetakan yang andal untuk meningkatkan kualitas dan efisiensi bisnis Anda? Kami telah mengumpulkan beberapa rekomendasi mesin percetakan terbaik, mulai dari mesin cetak offset, mesin digital printing, hingga mesin cetak spanduk dan mesin cetak stiker yang cocok untuk berbagai kebutuhan. Temukan pilihan mesin percetakan murah dengan kualitas tinggi dari berbagai distributor mesin percetakan terpercaya. Kami juga menyediakan informasi mengenai harga mesin percetakan terbaru serta tempat jual mesin percetakan yang bisa Anda pertimbangkan. Yuk, simak daftarnya di bawah ini dan pilih mesin yang paling sesuai untuk bisnis Anda!
+              Dalam dunia percetakan, kualitas hasil cetak tidak hanya bergantung pada desain dan mesin, tapi juga sangat ditentukan oleh bahan yang digunakan. Mulai dari tinta hingga media cetaknya, setiap elemen punya peran penting dalam menciptakan hasil cetak yang tajam, tahan lama, dan profesional.
+              <br><br>
+              Kalau kamu sedang mencari bahan percetakan terbaik untuk kebutuhan cetak digital, Vicentra punya dua produk andalan yang wajib kamu coba: <a href="https://vicentra.co.id/product/consumable/bahan-digital-printing/tinta/tinta-icontek-30-pl" class="underline">Tinta Icontek 30 PL</a> dan <a href="https://vicentra.co.id/product/consumable/bahan-sheet/sticker-a3/quantac-series" class="underline">Stiker A3 Quantac Series</a>. Kenapa dua bahan ini jadi favorit banyak pelaku usaha percetakan? Simak ulasannya di bawah ini!
             </p>
           </div>
           <div class="my-[1.875rem]">
-            <h2 class="font-semibold">Tren Terkini dalam Industri Percetakan</h2>
-            <p class="text-justify mt-4">
-              Dalam setahun terakhir, permintaan terhadap produk percetakan seperti kemasan custom, label, stiker, dan merchandise kustom mengalami peningkatan signifikan. Hal ini seiring dengan pertumbuhan industri kreatif dan e-commerce di Indonesia. Dengan memiliki mesin-mesin di atas, Anda dapat memenuhi kebutuhan pasar yang terus berkembang dan meningkatkan daya saing bisnis Anda.
+            <h2 class="text-xl font-semibold text-gray-800">Mengapa Memilih Bahan Percetakan dari Vicentra?</h2>
+            <p class="text-justify">
+              Vicentra dikenal sebagai salah satu penyedia bahan percetakan yang berkomitmen pada kualitas dan inovasi. Dengan pengalaman bertahun-tahun dalam industri percetakan, Vicentra menawarkan berbagai pilihan bahan yang telah teruji dan digunakan oleh banyak pelaku usaha percetakan profesional.
             </p>
-            <h2 class="font-semibold mt-4">Kesimpulan</h2>
+            <p class="text-justify mt-[1.875rem]">
+              Beberapa keunggulan bahan dari Vicentra:
+            </p>
+            <ul class="mt-2">
+              <li>✅ Kualitas terjamin</li>
+              <li>✅ Konsistensi hasil cetak tinggi</li>
+              <li>✅ Cocok untuk berbagai jenis mesin</li>
+              <li>✅ Tersedia dalam berbagai ukuran dan spesifikasi</li>
+              <li>✅ Harga kompetitif</li>
+            </ul>
+          </div>
+          <div class="my-[1.875rem]">
+            <h2 class="text-xl font-semibold text-gray-800">Rekomendasi Bahan Percetakan Terbaik dari Vicentra</h2>
+            <p class="text-justify">Berikut ini adalah beberapa jenis bahan unggulan yang bisa kamu pertimbangkan untuk mendukung hasil cetak maksimal:</p>
+          </div>
+          <div class="my-[1.875rem]">
+            <h2 class="text-xl font-semibold text-gray-800">1. Tinta - Icontek 30 PL</h2>
+            <a href="https://vicentra.co.id/product/consumable/bahan-digital-printing/tinta/tinta-icontek-30-pl" class="detail_produk" target="_blank">
+              <figure class="mt-4">
+                <img src="https://vicentra.co.id/storage/product-medias/002-tinta-icontec-30-pl-001.webp"
+                  alt="tinta-icontek-30-pl" class="mx-auto rounded-lg w-full lg:w-[50%]">
+                <figcaption class="text-center">tinta-icontek-30-pl</figcaption>
+              </figure>
+            </a>
             <p class="text-justify mt-4">
-              Memilih mesin percetakan yang tepat dapat meningkatkan efisiensi dan kualitas hasil cetak Anda. Jika Anda tertarik untuk mengetahui lebih detail mengenai mesin-mesin di atas, silakan kunjungi website utama kami di <a href="https://vicentra.co.id" class="underline">vicentra.co.id</a> atau channel youtube kami di <a href="https://www.youtube.com/@galeryvicentra" class="underline">@galeryvicentra</a> untuk melihat promo dan update terbaru. Jangan ragu untuk menghubungi kami jika Anda memerlukan konsultasi lebih lanjut. Selamat memilih mesin terbaik untuk bisnis Anda!
+              Butuh tinta untuk kebutuhan outdoor atau indoor dengan hasil cetak tajam dan tahan lama? Kami perkenalkan <a href="https://vicentra.co.id/product/consumable/bahan-digital-printing/tinta/tinta-icontek-30-pl" class="underline">Tinta Solvent Icontek</a>, tinta berkualitas tinggi yang dirancang khusus untuk kebutuhan digital printing outdoor dan indoor. Tinta ini menghadirkan hasil cetak yang tajam, cerah dan tahan lama dengan pigmen warna premium dalam formulasi solvent yang optimal.
+              <br><br>Tinta Icontek tersedia dalam empat warna standar CMYK (Cyan, Magenta, Yellow, Black) dengan volume 30PL per jerigen. Formula khusus tinta ini menjamin kestabilan warna, daya rekat yang kuat, dan ketahanan terhadap paparan cuaca untuk aplikasi outdoor maupun indoor.
+            </p>
+            <p class="text-justify mt-[1.875rem]">
+              Keunggulan utama tinta Icontek 30 PL:
+            </p>
+            <ul class="mt-2">
+              <li>🔹 Partikel halus – menghasilkan cetakan yang tajam dan tidak mudah clogging</li>
+              <li>🔹 Stabilitas warna tinggi – cocok untuk cetakan banner, spanduk, dan media luar ruang</li>
+              <li>🔹 Kering cepat – menghemat waktu produksi dan mempercepat proses finishing</li>
+              <li>🔹 Tahan cuaca – cocok untuk kebutuhan outdoor karena tidak mudah luntur</li>
+            </ul>
+            <p class="text-justify mt-[1.875rem]">
+              Tinta ini adalah pilihan ideal buat kamu yang ingin menjaga konsistensi warna dan ketajaman cetak, tanpa harus khawatir dengan masalah maintenance printhead.
+            </p>
+          </div>
+          <div class="my-[1.875rem]">
+            <h2 class="text-xl font-semibold text-gray-800">2. Stiker A3+ Quantac Series</h2>
+            <a href="https://vicentra.co.id/product/consumable/bahan-sheet/sticker-a3/quantac-series" class="detail_produk" target="_blank">
+              <figure class="mt-4">
+                <img src="https://vicentra.co.id/storage/product-medias/001-stiker-a3-quantac-series-001.webp"
+                  alt="tinta-icontek-30-pl" class="mx-auto rounded-lg w-full lg:w-[50%]">
+                <figcaption class="text-center">stiker-a3-quantac-series</figcaption>
+              </figure>
+            </a>
+            <p class="text-justify mt-4">
+              Butuh bahan stiker berkualitas tinggi yang didesain untuk memberikan hasil cetak maksimal, baik untuk kebutuhan indoor maupun semi-outdoor Kami perkenalkan <a href="https://vicentra.co.id/product/consumable/bahan-sheet/sticker-a3/quantac-series" class="underline">Stiker A3+ Quantac Series</a>, media cetak premium yang dirancang untuk berbagai kebutuhan pencetakan digital dan offset. Rangkaian produk kami mencakup berbagai jenis permukaan dari matte hingga metalik, memberikan pilihan sempurna untuk setiap proyek cetak Anda.
+              <br><br>
+              Koleksi ini menawarkan beragam pilihan media mulai dari HVS Matte, Chromo hingga varian premium seperti Gold dan Silver Metalized. Tersedia dalam berbagai ukuran standar industri dengan kapasitas pack 100 dan 250 lembar, serta ketebalan yang disesuaikan untuk kebutuhan cetak profesional.
+            </p>
+            <p class="text-justify mt-[1.875rem]">
+              Keunggulan utama Stiker A3+ Quantac Series:
+            </p>
+            <ul class="mt-2">
+              <li>🔸 Permukaan halus dan presisi warna tinggi</li>
+              <li>🔸 Mudah dipotong dan diaplikasikan</li>
+              <li>🔸 Lem kuat, tidak mudah mengelupas</li>
+              <li>🔸 Cocok untuk label produk, branding, dekorasi, dan promosi</li>
+            </ul>
+            <p class="text-justify mt-[1.875rem]">
+              Dengan kualitas bahan yang solid dan hasil cetak yang tajam, stiker ini bisa menjadi solusi ideal untuk usaha kecil hingga industri kreatif yang butuh media promosi yang menarik namun tetap terjangkau.
+            </p>
+          </div>
+          <div class="my-[1.875rem]">
+            <h2 class="text-xl font-semibold text-gray-800">Tips Memilih Bahan Percetakan yang Tepat</h2>
+            <ul class="mt-2">
+              <li>1. Kenali kebutuhanmu – Apakah untuk promosi, packaging, atau dokumen formal?</li>
+              <li>2. Perhatikan finishing – Apakah akan dilaminasi, UV spot, atau emboss?</li>
+              <li>3. Sesuaikan dengan mesin cetak – Pastikan bahan kompatibel dengan printer yang digunakan.</li>
+              <li>4. Pertimbangkan ketahanan dan tampilan akhir – Beberapa bahan lebih tahan lama atau memiliki efek visual tertentu.</li>
+            </ul>
+          </div>
+          <div class="my-[1.875rem]">
+            <h2 class="text-xl font-semibold text-gray-800">Kenapa Harus Vicentra?</h2>
+            <p class="text-justify mt-2">
+              Vicentra tidak hanya menyediakan bahan-bahan berkualitas, tapi juga memberikan layanan terbaik untuk membantu para pelaku industri percetakan mendapatkan hasil maksimal dengan efisiensi tinggi.
+            </p>
+            <ul class="mt-2">
+              <li>✨ Konsultasi gratis</li>
+              <li>🚚 Pengiriman cepat</li>
+              <li>📦 Stok selalu ready</li>
+              <li>💬 Tim support responsif</li>
+            </ul>
+            <p class="text-justify mt-2">
+              Jangan kompromi dengan kualitas. Dapatkan bahan percetakan terbaik hanya dari Vicentra. Konsultasikan kebutuhanmu, dan tim Vicentra siap membantu memberikan rekomendasi bahan yang paling sesuai untuk bisnis percetakanmu.
             </p>
           </div>
         </div>
@@ -155,7 +244,7 @@ require_once('const.php');
       </div>
       <div class="lg:w-[40vw] mx-5 lg:mx-auto flex justify-center mt-10">
         <?php foreach ($salesPeople as $sales): ?>
-          <a href="https://api.whatsapp.com/send?phone=<?= $sales['phone']; ?>&text=Hallo%20Vicentra,%20Saya%20Ingin%20Memesan%20Mesin%20UV."
+          <a href="https://api.whatsapp.com/send?phone=<?= $sales['phone']; ?>&text=Hallo%20Vicentra,%20Saya%20Ingin%20Konsultasi%20Mengenai%20Produk%20Ini."
             target="_blank"
             class="<?= ($sales['id'] === 1) ? 'bg-[#006db8]' : 'bg-green-600'; ?> sales_<?= $sales['slug']; ?>_cta_link w-full h-[5rem] flex items-center gap-[1.5rem] rounded-full relative py-2 pl-[7rem]">
 
