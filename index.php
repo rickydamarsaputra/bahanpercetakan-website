@@ -2,7 +2,7 @@
 require_once('const.php');
 ?>
 <!doctype html>
-<html lang="id">
+<html amp lang="id">
 
 <head>
   <!-- Metas -->
@@ -22,8 +22,8 @@ require_once('const.php');
   <meta property="og:title" content="Vicentra - Butuh Bahan - Bahan Percetakan Berkualitas? Inilah Rekomendasi Bahan Percetakan Terbaik untuk Kualitas Hasil Maksimal Dari Vicentra!" />
   <meta property="og:description"
     content="Vicentra adalah penyedia mesin dan bahan percetakan terpercaya di Indonesia, menawarkan mesin offset, digital, sablon, spanduk, stiker, serta layanan purna jual profesional untuk bisnis percetakan besar maupun rumahan. Hubungi kami sekarang!" />
-  <meta property="og:image" content="https://mesinpercetakan.com/assets/images/logo-vicentra-black.webp" />
-  <meta property="og:url" content="https://mesinpercetakan.com" />
+  <meta property="og:image" content="https://bahanpercetakan.com/assets/images/logo-vicentra-black.webp" />
+  <meta property="og:url" content="https://bahanpercetakan.com" />
   <meta property="og:site_name" content="Vicentra - Butuh Bahan - Bahan Percetakan Berkualitas? Inilah Rekomendasi Bahan Percetakan Terbaik untuk Kualitas Hasil Maksimal Dari Vicentra!" />
 
   <!-- Twitter -->
@@ -31,8 +31,8 @@ require_once('const.php');
   <meta name="twitter:title" content="Vicentra - Butuh Bahan - Bahan Percetakan Berkualitas? Inilah Rekomendasi Bahan Percetakan Terbaik untuk Kualitas Hasil Maksimal Dari Vicentra!" />
   <meta name="twitter:description"
     content="Vicentra adalah penyedia mesin dan bahan percetakan terpercaya di Indonesia, menawarkan mesin offset, digital, sablon, spanduk, stiker, serta layanan purna jual profesional untuk bisnis percetakan besar maupun rumahan. Hubungi kami sekarang!" />
-  <meta name="twitter:image" content="https://mesinpercetakan.com/assets/images/logo-vicentra-black.webp" />
-  <meta name="twitter:site" content="https://mesinpercetakan.com" />
+  <meta name="twitter:image" content="https://bahanpercetakan.com/assets/images/logo-vicentra-black.webp" />
+  <meta name="twitter:site" content="https://bahanpercetakan.com" />
 
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-STK4632WQ7"></script>
@@ -65,6 +65,75 @@ require_once('const.php');
     })(window, document, 'script', 'dataLayer', 'GTM-NTSKTDDP');
   </script>
   <!-- End Google Tag Manager -->
+
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  <style amp-boilerplate>
+    body {
+      -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+      -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+      -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+      animation: -amp-start 8s steps(1, end) 0s 1 normal both
+    }
+
+    @-webkit-keyframes -amp-start {
+      from {
+        visibility: hidden
+      }
+
+      to {
+        visibility: visible
+      }
+    }
+
+    @-moz-keyframes -amp-start {
+      from {
+        visibility: hidden
+      }
+
+      to {
+        visibility: visible
+      }
+    }
+
+    @-ms-keyframes -amp-start {
+      from {
+        visibility: hidden
+      }
+
+      to {
+        visibility: visible
+      }
+    }
+
+    @-o-keyframes -amp-start {
+      from {
+        visibility: hidden
+      }
+
+      to {
+        visibility: visible
+      }
+    }
+
+    @keyframes -amp-start {
+      from {
+        visibility: hidden
+      }
+
+      to {
+        visibility: visible
+      }
+    }
+  </style><noscript>
+    <style amp-boilerplate>
+      body {
+        -webkit-animation: none;
+        -moz-animation: none;
+        -ms-animation: none;
+        animation: none
+      }
+    </style>
+  </noscript>
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
     integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
